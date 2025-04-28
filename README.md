@@ -25,6 +25,12 @@ All experiment-related **task descriptions and reproduction instructions** are i
 2. Review and run the corresponding TypeScript source code in the `src/` directory and test cases in the `test/` directory.
 3. Compare the generation results of different models/systems and analyze pass rates and error types.
 
+### Test MCP Server
+You can reproduce the result using our test MCP server deployed by MAGI System.
+```
+https://mcp-codegen.magisystem.ai/e/sxh003yrbqvbkhdm/sse
+```
+
 ## References
 
 - For detailed design and experimental analysis, see [`intro.md`](./intro.md)
